@@ -1,8 +1,9 @@
 ## Hi there ! I'm Radar.
 
 - I'm just a dude on the internet.
-- The language I least suck at is Java.
-- That's about it.
+- The language I least suck at is Java. 
+
+That's about it.
 <!--
 **RadarwaThatstaken/Radarwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
