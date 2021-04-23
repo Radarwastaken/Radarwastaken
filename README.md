@@ -1,6 +1,7 @@
 ## Hi there ! I'm Radar.
 
 - I'm just a dude on the internet.
+- Pronouns : He/Him
 - The language I least suck at is Java. 
 
 That's about it.
